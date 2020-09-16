@@ -69,3 +69,13 @@ Major: Faculty of Architecture
 
 * Russian – native 
 * English – intermediate 
+
+### Courses, Trainings, Certification
+
+* [Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/67/506463.pdf) (by HTML Academy)
+* [Professional HTML & CSS, level 2](https://assets.htmlacademy.ru/certificates/intensive/91/506463.pdf) (by HTML Academy)
+* [Professional JavaScript, level 1](https://assets.htmlacademy.ru/certificates/intensive/123/506463.pdf?1587135110) (by HTML Academy)
+
+### Interests & Activities
+
+Architecture, art, nature, travelling, yoga, swimming, music, movies, reading
