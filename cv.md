@@ -7,8 +7,8 @@
 * E-mail: levallevchenko@gmail.com
 * Citizenship: Russian
 * Date of birth: 07 Dec 1993
-* Github link: https://github.com/levallevchenko 
-* HTML Academy link: https://htmlacademy.ru/profile/id506463
+* Github profile: https://github.com/levallevchenko 
+* HTML Academy profile: https://htmlacademy.ru/profile/id506463
 
 ### Summary
 
@@ -34,11 +34,14 @@ Major: Faculty of Architecture
 
 * Good knowledge of HTML5, CSS3
 * Basic JavaScript knowledge
+* React, Redux, Hooks
 * Experience with Gulp (build, automation)
+* Experience with Webpack
 * Experience in creating responsive websites (Mobile-first)
-* Knowledge of website optimization
 * Working with preprocessors (SASS / LESS)
 * Writing clean and maintainable CSS using BEM methodology
+* Knowledge of website optimization
+* Accessibility
 * Working with Git version control system
 
 ### Portfolio
@@ -46,7 +49,8 @@ Major: Faculty of Architecture
 * [Sedona](https://levallevchenko.github.io/Sedona/) – HTML & CSS
 * [Pink](https://levallevchenko.github.io/Pink/build) – HTML & CSS (adaptive)
 * [Kekstagram](https://levallevchenko.github.io/Kekstagram/) – JavaScript
-
+* [Cinemaddict](https://github.com/levallevchenko/Cinemaddict) – JavaScript ES2015+, OOP
+* [SixCities](https://github.com/levallevchenko/Six-Cities) – React, Redux, Hooks
 
 ### Personal Features
 
@@ -74,7 +78,9 @@ Major: Faculty of Architecture
 
 * [Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/67/506463.pdf) (by HTML Academy)
 * [Professional HTML & CSS, level 2](https://assets.htmlacademy.ru/certificates/intensive/91/506463.pdf) (by HTML Academy)
-* [Professional JavaScript, level 1](https://assets.htmlacademy.ru/certificates/intensive/123/506463.pdf?1587135110) (by HTML Academy)
+* [Professional JavaScript, level 1](https://assets.htmlacademy.ru/certificates/intensive/123/506463.pdf) (by HTML Academy)
+* [JavaScript. Architecture of Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/175/506463.pdf) (by HTML Academy)
+* [React. Development of Complex Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/177/506463.pdf) (by HTML Academy)
 
 ### Interests & Activities
 
