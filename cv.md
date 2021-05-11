@@ -1,4 +1,4 @@
-# CV for Rolling Scopes School
+# CV
 
 ## Anna Levchenko
 
