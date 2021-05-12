@@ -76,9 +76,9 @@ Major: Faculty of Architecture
 
 ### Courses, Trainings, Certification
 
-* [Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/67/506463.pdf) (by HTML Academy)
-* [Professional HTML & CSS, level 2](https://assets.htmlacademy.ru/certificates/intensive/91/506463.pdf) (by HTML Academy)
-* [Professional JavaScript, level 1](https://assets.htmlacademy.ru/certificates/intensive/123/506463.pdf) (by HTML Academy)
+* [HTML and CSS, level 1. Professional Website Coding](https://assets.htmlacademy.ru/certificates/intensive/67/506463.pdf) (by HTML Academy)
+* [HTML and CSS, level 2. Adaptive Website Coding and Automation](https://assets.htmlacademy.ru/certificates/intensive/91/506463.pdf) (by HTML Academy)
+* [JavaScript. Professional Development of Web Interfaces](https://assets.htmlacademy.ru/certificates/intensive/123/506463.pdf) (by HTML Academy)
 * [JavaScript. Architecture of Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/175/506463.pdf) (by HTML Academy)
 * [React. Development of Complex Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/177/506463.pdf) (by HTML Academy)
 
